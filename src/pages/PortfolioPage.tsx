@@ -61,7 +61,7 @@ const PortfolioPage: React.FC = () => {
               transition={{ duration: 0.5 }}
             >
               <img 
-                src="src/assets/20250425_2128_image.png" 
+                src="https://cdn.leonardo.ai/users/f401954a-11dd-4a27-8892-e603d4aa0235/generations/2b3563d6-e73c-41c8-b418-560fa99051b1/DreamShaper_v7_detailed_vibrant_illustration_of_a_Tokyo_buildi_0.jpg" 
                 alt="Processo de tatuagem" 
                 className="h-full w-full object-cover shadow-md" 
               />
