@@ -83,22 +83,22 @@ const HomePage: React.FC = () => {
               transition={{ duration: 0.5 }}
             >
               <img 
-                src="https://images.pexels.com/photos/4125609/pexels-photo-4125609.jpeg" 
+                src="https://preview.redd.it/o1ky1hp3m7a81.jpg?width=640&crop=smart&auto=webp&s=a06f6863c68167fba2d99c8c47f6a6bfee45cf23" 
                 alt="Estúdio Interior" 
                 className="h-full w-full object-cover"
               />
               <img 
-                src="https://images.pexels.com/photos/6942843/pexels-photo-6942843.jpeg" 
+                src="https://images.pexels.com/photos/4125609/pexels-photo-4125609.jpeg" 
                 alt="Artista trabalhando" 
                 className="h-full w-full object-cover"
               />
               <img 
-                src="https://images.pexels.com/photos/1530223/pexels-photo-1530223.jpeg" 
+                src="https://localshopping.com.br/wp-content/uploads/2020/12/6-2.jpg" 
                 alt="Arte e esboços" 
                 className="h-full w-full object-cover" 
               />
               <img 
-                src="https://images.pexels.com/photos/7516509/pexels-photo-7516509.jpeg" 
+                src="https://dragonhawkofficial.b-cdn.net/wp-content/uploads/2022/06/017-13.jpg" 
                 alt="Equipamento profissional" 
                 className="h-full w-full object-cover"
               />
